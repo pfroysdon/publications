@@ -132,11 +132,4 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 See the [LICENSE.md](LICENSE.md) file for details.
 
 
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
 
-[//]: # "Do single-line comments like this"
-
-<!---
-"Do multi-line comments like this"
---->
