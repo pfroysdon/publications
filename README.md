@@ -19,23 +19,8 @@ The books for this repository can be purchased from my Amazon storefront. Howeve
 </p>
 
 
-*Machine Learning: a Conceptual Approach* offers a comprehensive introduction to the concepts, approaches and applications of machine learning algorithms, from the simple to the current state-of-the-art.
-This book covers 35 machine learning algorithms, one chapter for each, using a concise and conceptual approach.
-To make the book approachable for non-technical leadership, as well as beginners, practitioners, and experienced folks, each chapter is split into five primary sections:
-
-* The Bumper Sticker: a single sentence at the beginning of each chapter that summarizes the algorithm into a catchy, easy to remember phrase.
-
-* The Concept: the novice reader is introduced to the algorithm using real-world examples, simple descriptions, and colorful graphics.
-
-* Digging Deeper: the intermediate reader is provided a tutorial wherein each step of the algorithm is described in detail, ``rules of thumb'' are given, and results are explained so that the reader gains the intuition necessary to apply the algorithm in practice.
-
-* Algorithm Description: the advanced reader is provided a complete mathematical treatment of the algorithm, so that they will be equipped with the skills necessary to modify or extend existing machine learning libraries.
-
-* Advantages & Limitations: this final section lists examples of when to use the algorithm in practice, and (if applicable) provide alternative algorithms.
-
-Each chapter also includes complete software examples, written in both Matlab and Python, that can be used as either a template or copied directly to reader projects.
-
-You can view the book cover [here.](https://github.com/pfroysdon/publications/blob/main/Machine_Learning_a_Conceptual_Approach/Machine_Learning_a_Conceptual_Approach%20-%20bookcover.pdf)
+*Machine Learning: a Conceptual Approach* this forthcoming book offers a comprehensive introduction to the concepts, approaches and applications of machine learning algorithms, from the simple to the current state-of-the-art.
+This book covers 35 machine learning algorithms, one chapter for each, using a concise and conceptual approach to make the book approachable for non-technical leadership, as well as beginners, practitioners, and experienced folks.
 
 
 ## Math Refresher for Machine Learning
