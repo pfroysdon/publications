@@ -1,7 +1,7 @@
 # ML Books
 
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/Media/machine-learning-books.jpg">
+	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/machine-learning-books.jpg">
 </p>
 
 Repository for my textbooks, papers, and software.
@@ -15,7 +15,7 @@ The books for this repository can be purchased from my Amazon storefront. Howeve
 
 ## Machine Learning: a Conceptual Approach
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Media/Machine_Learning_A_Conceptual_Approach2.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Machine_Learning_A_Conceptual_Approach2.png">
 </p>
 
 
@@ -25,7 +25,7 @@ This book covers 35 machine learning algorithms, one chapter for each, using a c
 
 ## Math Refresher for Machine Learning
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Media/Math_Refresher_for_Machine_Learning.JPG">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Refresher_for_Machine_Learning.JPG">
 </p>
 
 *Math Refresher for Machine Learning* offers a comprehensive review of the concepts, approaches and applications of linear algebra, statistics, and calculus for use in machine learning algorithms.
@@ -40,7 +40,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## Math Handbook for Machine Learning
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Media/Math_Handbook_for_Machine_Learning.JPG">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Handbook_for_Machine_Learning.JPG">
 </p>
 
 *Math Handbook for Machine Learning* is the ensemble of notes gathered from my Ph.D. dissertation research on Machine Learning (ML) topics.
@@ -58,7 +58,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## Optimal Nonlinear Bayesian Estimation and Sensor Fusion
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Media/Optimal_Nonlinear_Bayesian_Estimation_and_Sensor_Fusion.JPG">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Optimal_Nonlinear_Bayesian_Estimation_and_Sensor_Fusion.JPG">
 </p>
 
 *Optimal Nonlinear Bayesian Estimation and Sensor Fusion* is based on my my Ph.D. dissertation research on optimal nagivation system theory.
@@ -77,7 +77,7 @@ You can view the bookcover [here](https://github.com/pfroysdon/publications/blob
 
 ## Neural Networks - A Monograph
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Media/Neural_Networks_a_monograph.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Neural_Networks_a_monograph.png">
 </p>
 
 *Neural Networks - A Monograph* is a simple tutorial of a basic Artificial Neural Network, with worked examples in Python, so that anyone can read this text and gain the skills necessary to: 
@@ -98,7 +98,7 @@ You can view the flow-chart [here.](https://github.com/pfroysdon/publications/bl
 
 ## Math Notes
 <p align="center">
-	<img width="250" img src="https://github.com/pfroysdon/publications/blob/main/Media/LS.png">
+	<img width="250" img src="https://github.com/pfroysdon/publications/blob/main/figures/LS.png">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Math_Notes) is a collection of math reference notes on various subjects in Machine Learning.
@@ -107,7 +107,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 
 ## Publications	
 <p align="center">
-	<img width="250" img src="https://github.com/pfroysdon/publications/blob/main/Media/pub.png">
+	<img width="250" img src="https://github.com/pfroysdon/publications/blob/main/figures/pub.png">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Papers) contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from computational fluid dynamics (CFD), aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, applied mathematics and probability theory.
