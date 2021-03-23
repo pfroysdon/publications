@@ -6,8 +6,8 @@ This great machine learning flow chart will help you decide the right algorithm 
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_flow_chart_HiRes.png">
 </p>
 
-This machine learning "plot selector" provides a great place to start when plotting your data.
+This machine learning "plot selector" by Dr. Andrew Abela provides a great place to start when plotting your data.
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_plot_selector.png">
+	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_plot_selector.jpg">
 </p>
 
