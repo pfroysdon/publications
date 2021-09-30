@@ -11,4 +11,4 @@ I have 35 more of these "notes" in various stages of completion. I will upload t
 
 While all of these have been peer-reviewed, I do not guarantee that they are free of typographical errors.
 
-Special Note: The math/stats/ML literature uses many variations on notation. Great pains have been taken to keep the notation consistent throughout my notes, in fact I have defined it here. This way you are introduced to the notation and conventions once, and can spend the rest of your time learning the topic without re-learning notation each time.
+Special Note: The math/stats/ML literature uses many variations on notation. Great pains have been taken to keep the notation consistent throughout my notes, in fact I have defined it [here](https://github.com/pfroysdon/publications/blob/main/Math_Notes/Notation.pdf). This way you are introduced to the notation and conventions once, and can spend the rest of your time learning the topic without re-learning notation each time.
