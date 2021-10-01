@@ -10,7 +10,7 @@ Repository for my textbooks, papers, and software.
 -----------------------------------------------------------------------------------
 
 # Project Overview
-The books for this repository can be purchased from my Amazon storefront. However, I have placed in each folder a **free preview chapter** or **free copy** along with all software supporting each of the following books:
+I am now working with a small publisher to make these hard-bound books more affordable, and they will soon be available on my website. In the interim, I have placed in each folder a **free preview chapter** along with all software supporting each of the following books:
 
 
 ## Machine Learning: a Conceptual Approach
