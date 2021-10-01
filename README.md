@@ -10,7 +10,7 @@ Repository for my textbooks, papers, and software.
 -----------------------------------------------------------------------------------
 
 # Project Overview
-I am now working with a small publisher to make these hard-bound books more affordable, and the books will soon be available on my website. In the interim, I have placed in each folder a **free preview chapter** along with all software supporting each of the following books:
+I am now working with a small publisher to make these hard-bound books more affordable, and the books will soon be available on my website. In the interim, I have placed in each folder a **free preview chapter** along with all supporting software.
 
 
 ## Machine Learning: a Conceptual Approach
