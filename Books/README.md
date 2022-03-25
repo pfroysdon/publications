@@ -1,4 +1,4 @@
-# ML Notes
+# ML Books
 
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/textbooks.jpg">
