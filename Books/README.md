@@ -4,6 +4,8 @@
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/textbooks.jpg">
 </p>
 
+I am now working with a small publisher to make these hard-bound books more affordable. The books are available on [my website](https://roysdonfibonaccipress.com). 
+
 
 ## Machine Learning: a Conceptual Approach
 <p align="center">

@@ -12,7 +12,7 @@ Repository for my textbooks, papers, and software.
 	<img width="250" img src="https://github.com/pfroysdon/publications/blob/main/figures/books.jpg">
 </p>
 
-I am now working with a small publisher to make these hard-bound books more affordable. The books are available on [my website](https://roysdonfibonaccipress.com). [This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free preview chapter** of my Machine Learning books, including:
+[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free preview chapter** of my Machine Learning books, including:
 - Machine Learning: a Conceptual Approach
 - Math Refresher for Machine Learning
 - Math Handbook for Machine Learning
