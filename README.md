@@ -23,7 +23,7 @@ Repository for my textbooks, papers, and software.
 # ML Flow Chart
 This great machine learning flow chart will help you decide the right algorithm for your data.
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_flow_chart_HiRes.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_flow_chart.png">
 </p>
 
 You can view the flow-chart [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
