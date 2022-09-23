@@ -13,6 +13,7 @@ Repository for my textbooks, papers, and software.
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free preview chapter** of my Machine Learning books, including:
+- How to do Research, Remotely!
 - Machine Learning: a Conceptual Approach
 - Math Refresher for Machine Learning
 - Math Handbook for Machine Learning
