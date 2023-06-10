@@ -8,7 +8,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 -----------------------------------------------------------------------------------
 # Book Resources
 <p align="center">
-	<img width="600" img src="https://github.com/pfroysdon/publications/blob/main/figures/books.jpg">
+	<img width="400" img src="https://github.com/pfroysdon/publications/blob/main/figures/books.jpg">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
@@ -47,7 +47,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 # ML Flow Chart
 This great machine learning flow chart will help you decide the right algorithm for your data.
 <p align="center">
-	<img width="600" img src="https://github.com/pfroysdon/publications/blob/main/figures/ML_flow_chart.png">
+	<img width="600" img src="https://github.com/pfroysdon/publications/blob/main/Flow-Chart/ML_flow_chart.png">
 </p>
 
 You can view the flow-chart [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
