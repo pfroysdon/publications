@@ -19,7 +19,7 @@ This book covers 35 machine learning algorithms, one chapter for each, using a c
 
 ## Math Refresher for Engineers_and_Scientists
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Refresher_for_Engineers_and_Scientists.JPG">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Refresher_for_Machine_Learning.JPG">
 </p>
 
 *Math Refresher for Engineers_and_Scientists* offers a comprehensive review of the concepts, approaches and applications of linear algebra, statistics, and calculus for use in machine learning algorithms.
@@ -34,7 +34,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## Math Handbook for Engineers_and_Scientists
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Handbook_for_Engineers_and_Scientists.JPG">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/Math_Handbook_for_Machine_Learning.JPG">
 </p>
 
 *Math Handbook for Engineers_and_Scientists* is the ensemble of notes gathered from my Ph.D. dissertation research on Machine Learning (ML) topics.
