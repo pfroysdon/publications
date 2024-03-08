@@ -29,7 +29,7 @@ To make the book approachable for beginners, practitioners, and experienced folk
 This text is not intended to replace a college-level course in linear algebra, statistics, nor calculus. 
 Rather the necessary material is provided to refresh what the reader previously learned, so that they will be ready to tackle machine learning problems and its applications in the field of Data Science.
 
-You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Refresher_for_Engineers_and_Scientists/Math_Refresher_for_Engineers_and_Scientists%20-%20example_chapter.pdf).
+You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Refresher/example_chapter.pdf).
 
 
 ## Math Handbook for AI & Machine Learning
@@ -47,7 +47,7 @@ The notation and analysis is developed and consistent across the chapters & fiel
 Great pains have been taken to compile a large body of mathematics literature into one concise and consistent notation.
 Thus, the reader is introduced to the notation once, and can therefore spend the rest of their time refreshing their memory of algorithms instead of learning new notation.
 
-You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Handbook_for_Engineers_and_Scientists/Math_Handbook_for_Engineers_and_Scientists%20-%20example_chapter.pdf).
+You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Handbook/example_chapter.pdf).
 
 
 ## Optimal Nonlinear Bayesian Estimation and Sensor Fusion
@@ -66,7 +66,7 @@ This text formulates a sliding-window estimator containing multiple GNSS epochs,
 By leveraging the resulting window of residuals, an improved fault detection and removal strategy is implemented. 
 Experimental sensor data is used to demonstrate the interval RAIM (iRAIM) performance improvement.
 
-You can view the bookcover [here](https://github.com/pfroysdon/publications/blob/main/Books/Optimal_Nonlinear_Bayesian_Estimation_and_Sensor_Fusion/Optimal_Nonlinear_Bayesian_Estimation_and_Sensor_Fusion%20-%20bookcover.pdf)
+You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Sensor_Fusion/example_chapter.pdf)
 
 
 ## The Absolute Beginners Guide to Neural Networks
@@ -78,4 +78,4 @@ You can view the bookcover [here](https://github.com/pfroysdon/publications/blob
 * Perform research of new and exciting literature in ML. 
 * Apply their Python skills to a problem in their field of work.
 
-You can view the bookcover [here](https://github.com/pfroysdon/publications/blob/main/Books/Neural_Networks/Neural_Networks%20-%20bookcover.pdf).
+You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Neural_Networks/example_chapter.pdf).
