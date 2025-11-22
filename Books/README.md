@@ -1,28 +1,28 @@
 # ML Books
 
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/roysdon_textbooks.JPG">
+	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/ai_books_on_table.png" style="border-radius: 15px;>
 </p>
 
-I am now working with a small publisher to make these hard-bound books more affordable. The books are available on [my website](https://roysdonfibonaccipress.com). 
+The books are available on [my website](https://roysdonfibonaccipress.com). 
 
 
-## Machine Learning: a Conceptual Approach
+## A Comprehensive Approach to Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/ml_conceptual_approach.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/comprehensive.png" style="border-radius: 15px;>
 </p>
 
+Drawing on decades of experience in the Intelligence Community and industry, Dr. Roysdon presents 57 of the most influential and often misunderstood algorithm families in Data Science, Machine Learning, and AI. Each chapter opens with a clear overview and an intuitive, non-mathematical illustration, followed by from-scratch LaTeX pseudocode and comprehensive code tutorials in MATLAB, Python, and R -- 264 in total, all freely downloadable from the author's website -- that reveal the core logic behind modern libraries. A dedicated section on mathematical derivations and proofs deepens understanding, while concise summaries of advantages, limitations, and real-world applications make this book equally valuable to technical and non-technical readers.
 
-*Machine Learning: a Conceptual Approach* this forthcoming book offers a comprehensive introduction to the concepts, approaches and applications of machine learning algorithms, from the simple to the current state-of-the-art.
-This book covers 35 machine learning algorithms, one chapter for each, using a concise and conceptual approach to make the book approachable for non-technical leadership, as well as beginners, practitioners, and experienced folks.
+To access the code tutorials, you will need the password for the .zip file that is located on the Copyright page of the book.
 
 
-## Math Refresher for AI & Machine Learning
+## Math Refresher for Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/math_refresher.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/refresher.png" style="border-radius: 15px;>
 </p>
 
-*Math Refresher for AI & Machine Learning* offers a comprehensive review of the concepts, approaches and applications of linear algebra, statistics, and calculus for use in machine learning algorithms.
+*Math Refresher for Data Science, Machine Learning & AI* offers a comprehensive review of the concepts, approaches and applications of linear algebra, statistics, and calculus for use in machine learning algorithms.
 This book covers each topic using a concise and conceptual approach.
 To make the book approachable for beginners, practitioners, and experienced folks, the text includes worked problems (examples) as well as exercises for the reader to complete, with solutions provided in the appendix.
 
@@ -32,12 +32,12 @@ Rather the necessary material is provided to refresh what the reader previously 
 You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Refresher/example_chapter.pdf).
 
 
-## Math Handbook for AI & Machine Learning
+## Math Handbook for Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/math_handbook.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/handbook.png" style="border-radius: 15px;>
 </p>
 
-*Math Handbook for AI & Machine Learning* is the ensemble of notes gathered from my Ph.D. dissertation research on Machine Learning (ML) topics.
+*Math Handbook for Data Science, Machine Learning & AI* is the ensemble of notes gathered from my Ph.D. dissertation research on Machine Learning (ML) topics.
 Fortunately, there exists a large body of literature on this subject.
 However, much of the on-line material is confusing or inaccurate, with inconsistent nomenclature.
 This text provides a reference of high school and first-year college math, so that anyone can refer to this text while performing their own research.
@@ -50,9 +50,23 @@ Thus, the reader is introduced to the notation once, and can therefore spend the
 You can view the example chapter [here](https://github.com/pfroysdon/publications/blob/main/Books/Math_Handbook/example_chapter.pdf).
 
 
+## How to do Research
+<p align="center">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/research.png" style="border-radius: 15px;>
+</p>
+*How to do Research for Engineers & Scientists* contains both personal accounts and recommendations from the author, complemented with references to other subject matter experts, to help you learn tips and tricks of Ph.D.-level research without going to grad school!
+
+After reading this, you will:
+- Know the difference between research and development
+- Be able to perform efficient and effective research
+- Write great technical papers
+- Prepare and present excellent technical presentations
+- Become an expert of anything in four steps
+
+
 ## Optimal Nonlinear Bayesian Estimation and Sensor Fusion
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/bayesian.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/optimal.png" style="border-radius: 15px;>
 </p>
 
 *Optimal Nonlinear Bayesian Estimation and Sensor Fusion* is based on my my Ph.D. dissertation research on optimal nagivation system theory.
@@ -71,7 +85,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## The Absolute Beginners Guide to Neural Networks
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/neural_nets.png">
+	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/neural_nets.png" style="border-radius: 15px;>
 </p>
 
 *The Absolute Beginners Guide to Neural Networks* is a simple tutorial of a basic Artificial Neural Network, with worked examples in Python, so that anyone can read this text and gain the skills necessary to: 
