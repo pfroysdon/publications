@@ -9,7 +9,7 @@ The books are available on [my website](https://roysdonfibonaccipress.com).
 
 ## A Comprehensive Approach to Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/comprehensive.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/comprehensive.png" style="border-radius: 15px;>
 </p>
 
 Drawing on decades of experience in the Intelligence Community and industry, Dr. Roysdon presents 57 of the most influential and often misunderstood algorithm families in Data Science, Machine Learning, and AI. Each chapter opens with a clear overview and an intuitive, non-mathematical illustration, followed by from-scratch LaTeX pseudocode and comprehensive code tutorials in MATLAB, Python, and R -- 264 in total, all freely downloadable from the author's website -- that reveal the core logic behind modern libraries. A dedicated section on mathematical derivations and proofs deepens understanding, while concise summaries of advantages, limitations, and real-world applications make this book equally valuable to technical and non-technical readers.
