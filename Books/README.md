@@ -1,7 +1,7 @@
 # ML Books
 
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/ai_books_on_table.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/ai_books_on_table.png" style="border-radius: 15px;>
 </p>
 
 The books are available on [my website](https://roysdonfibonaccipress.com). 
@@ -19,7 +19,7 @@ To access the code tutorials, you will need the password for the .zip file that 
 
 ## Math Refresher for Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/refresher.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/refresher.png" style="border-radius: 15px;>
 </p>
 
 *Math Refresher for Data Science, Machine Learning & AI* offers a comprehensive review of the concepts, approaches and applications of linear algebra, statistics, and calculus for use in machine learning algorithms.
@@ -34,7 +34,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## Math Handbook for Data Science, Machine Learning & AI
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/handbook.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/handbook.png" style="border-radius: 15px;>
 </p>
 
 *Math Handbook for Data Science, Machine Learning & AI* is the ensemble of notes gathered from my Ph.D. dissertation research on Machine Learning (ML) topics.
@@ -52,7 +52,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## How to do Research
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/research.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/research.png" style="border-radius: 15px;>
 </p>
 *How to do Research for Engineers & Scientists* contains both personal accounts and recommendations from the author, complemented with references to other subject matter experts, to help you learn tips and tricks of Ph.D.-level research without going to grad school!
 
@@ -66,7 +66,7 @@ After reading this, you will:
 
 ## Optimal Nonlinear Bayesian Estimation and Sensor Fusion
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/optimal.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/optimal.png" style="border-radius: 15px;>
 </p>
 
 *Optimal Nonlinear Bayesian Estimation and Sensor Fusion* is based on my my Ph.D. dissertation research on optimal nagivation system theory.
@@ -85,7 +85,7 @@ You can view the example chapter [here](https://github.com/pfroysdon/publication
 
 ## The Absolute Beginners Guide to Neural Networks
 <p align="center">
-	<img width="300" img src="https://github.com/pfroysdon/publications/blob/main/figures/neural_nets.png" style="border-radius: 15px;>
+	<img width="500" img src="/figures/neural_nets.png" style="border-radius: 15px;>
 </p>
 
 *The Absolute Beginners Guide to Neural Networks* is a simple tutorial of a basic Artificial Neural Network, with worked examples in Python, so that anyone can read this text and gain the skills necessary to: 
